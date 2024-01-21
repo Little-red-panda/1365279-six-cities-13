@@ -3,6 +3,8 @@
 - Студент: [Дарья Пьянова](https://up.htmlacademy.ru/react/13/user/1365279).
 - Наставник: [Arthur Litovko](https://htmlacademy.ru/profile/id6927).
 
+Собранный проект [здесь](https://six-cities-litrepa.vercel.app/)
+
 ---
 
 ### О проекте
