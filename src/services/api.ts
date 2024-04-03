@@ -22,7 +22,7 @@ const StatusCodeMapping: Record<number, boolean> = {
 const shouldDisplayError = (response: AxiosResponse) =>
 	!!StatusCodeMapping[response.status];
 
-const BASE_URL = 'https://13.design.pages.academy/six-cities';
+const BASE_URL = 'https://13.design.htmlacademy.pro/six-cities';
 const REQUEST_TIMEOUT = 5000;
 
 export const createAPI = (): AxiosInstance => {
